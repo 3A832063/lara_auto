@@ -9,6 +9,6 @@ $world = new World();
 $lara = new Lara();
 $vincent = new Hello\Someone('Vincent');
 
-$mary = new Demo\Hello\Someome('Mary');
-$john = new Demo\Hello\Someome('John');
+$mary = new Demo\Hello\Someone('Mary');
+$john = new Demo\Hello\Someone('John');
 ?>
