@@ -1,5 +1,5 @@
 <?php
-namespace \Demo\Hello;
+namespace Demo\Hello;
 
 class Lara
 {
