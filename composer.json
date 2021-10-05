@@ -1,0 +1,16 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LIN GUAN YU",
+            "email": "kib7410@gmail.com"
+        }
+    ],
+    "require": {}
+}
