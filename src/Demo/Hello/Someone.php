@@ -1,7 +1,7 @@
 <?php
 namespace Demo\Hello;
 
-class Someome
+class Someone
 {
     function construct($name)
     {
