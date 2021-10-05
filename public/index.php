@@ -7,7 +7,7 @@ use Demo\Hello;
 
 $world = new World();
 $lara = new Lara();
-$vincent = new Hello\Someome('Vincent');
+$vincent = new Hello\Someone('Vincent');
 
 $mary = new Demo\Hello\Someome('Mary');
 $john = new Demo\Hello\Someome('John');
